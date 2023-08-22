@@ -20,8 +20,8 @@ https://github.com/Ardelean-Claudiu-Andrei/AuthenticationApp/assets/91498815/d74
 * **Home Screen** (`HomeScreen.js`):
   The home screen displays a welcome message to the authenticated user, showing their email. Users can also sign out from this screen.
 
-# Firebase Setup (`firebase.js`)
-The firebase.js file initializes the Firebase SDK with the provided configuration and exports the authentication module for use in the app.
+# Firebase Setup 
+The (`firebase.js`) file initializes the Firebase SDK with the provided configuration and exports the authentication module for use in the app.
 
 # Technical
 * JavaScript
