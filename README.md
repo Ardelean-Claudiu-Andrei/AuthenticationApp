@@ -14,10 +14,10 @@ https://github.com/Ardelean-Claudiu-Andrei/AuthenticationApp/assets/91498815/d74
 
 
 # Screens
-* # Login Screen (LoginScreen.js)
+*  Login Screen (LoginScreen.js)
 The login screen allows users to log in using their registered email and password. If a user is already authenticated, they are automatically redirected to the home screen.
 
-* # Home Screen (HomeScreen.js)
+*  Home Screen (HomeScreen.js)
 The home screen displays a welcome message to the authenticated user, showing their email. Users can also sign out from this screen.
 
 # Firebase Setup (firebase.js)
